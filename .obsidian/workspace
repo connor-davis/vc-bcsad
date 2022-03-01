@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "02c7a08ff6fa394d",
+    "type": "split",
+    "children": [
+      {
+        "id": "05b8e83a9650feee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming Logic and Design/Independant/Understanding Computer Systems.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be2ebe2e305971e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a3cd0919998178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bfeda218ac6aa52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdc1592f525a8a8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0af43f85fdfc072",
+    "type": "split",
+    "children": [
+      {
+        "id": "65fb522a70813844",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f2f8d2a97f304c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming Logic and Design/Independant/Understanding Computer Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce5279ba1ef32944",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "05b8e83a9650feee",
+  "lastOpenFiles": [
+    "Programming Logic and Design/Independant/Understanding Computer Systems.md",
+    "Programming Logic and Design/Independant/An Overview of Computers and Programming.md",
+    "Programming Logic and Design/Phrases/Hardware.md",
+    "Programming Logic and Design/Programming Logic and Design.md",
+    "Java Programming/Independant/Learning Programming Terminology.md",
+    "Java Programming/Phrases/hardware.md",
+    "Programming Logic and Design/Programming Logic and Design Kanban.md",
+    "Java Programming/Java Programming Kanban.md",
+    "Personal Projects/ASCII Video/ASCII Video.md",
+    "Java Programming/Phrases/interpreter.md"
+  ]
+}
